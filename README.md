@@ -1,0 +1,2 @@
+# fi.ijoin.app
+Finnisch
