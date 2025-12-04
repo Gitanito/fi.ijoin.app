@@ -4,6 +4,7 @@ title: Naapurustojuhlien Järjestäminen Ilman Stressiä
 subtitle: Maksimoi osallistuminen ja unohda loputtomat sähköpostiketjut
 tags: [tapahtumajärjestely, naapurusto]
 author: ijoin.app
+language: fi
 ---
 # Naapurustojuhlat Ovat Ilo – Järjestelyjen Ei Tarvitse Olla Vaiva
 

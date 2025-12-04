@@ -4,6 +4,7 @@ title: Unohda Viestiketjut- Näin Saat Heti Selville Keitä On Tulossa Treeneihi
 subtitle: Urheilujoukkueen läsnäoloseuranta vihdoin vaivattomasti ja ilman kirjautumisia
 tags: [urheiluseura, joukkuehallinta]
 author: ijoin.app
+language: fi
 ---
 
 # Urheilujoukkueen Läsnäoloseuranta Muuttuu Välittömäksi: Enemmän Aikaa Valmennukseen

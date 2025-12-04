@@ -4,6 +4,7 @@ title: Unikurssien Opiskeluryhmät Vaivattomasti - Maksimoi Osallistuminen
 subtitle: Älä anna järjestelyvaikeuksien kaataa seuraavaa opiskelusessiota
 tags: [opiskeluryhmä, tapahtumajärjestely]
 author: ijoin.app
+language: fi
 ---
 # Unikurssien Opiskeluryhmät Vaivattomasti - Maksimoi Osallistuminen
 

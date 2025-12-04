@@ -4,6 +4,7 @@ title: Unohda sähköpostiviidakko- Näin maksimoit osallistujamäärän kirjake
 subtitle: Järjestä viikoittaiset tapaamiset vaivattomasti ja ilman kirjautumispakkoa
 tags: [tapahtumajärjestely, kirjakerho]
 author: ijoin.app
+language: fi
 ---
 
 # Viikoittaisten Tapaamisten Järjestäminen- Enemmän Osallistujia, Vähemmän Hässäämistä

@@ -4,6 +4,7 @@ title: Unohda Koulureissun Kyytisählinki - Helppo Ratkaisu
 subtitle: Optimoi Koulun, Seuran tai Yhdistyksen Kyytijärjestelyt Vaivattomasti
 tags: [tapahtumajärjestelyt, kyytikoordinointi]
 author: ijoin.app
+language: fi
 ---
 
 # Unohda Koulureissun Kyytisählinki - Järjestä Kuljetukset Minuuteissa

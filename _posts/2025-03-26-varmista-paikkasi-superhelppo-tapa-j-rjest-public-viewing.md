@@ -4,6 +4,7 @@ title: Varmista Paikkasi - Superhelppo Tapa Järjestää Public Viewing
 subtitle: Unohda loputtomat viestiketjut - Kerää osallistujat vaivattomasti urheilutapahtumiin
 tags: [tapahtumajärjestely, public viewing]
 author: ijoin.app
+language: fi
 ---
 
 # Urheilujuhlan Järjestäminen Ilman Sählinkiä - Maksimoi Osallistujamäärä

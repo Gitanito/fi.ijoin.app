@@ -4,6 +4,7 @@ title: Unohda sähköpostiviidakko- Näin järjestät yritystapaamiset vaivattom
 subtitle: Maksimoi osallistujamäärä ja kerää puhujien aiheet yhdellä linkillä
 tags: [yritystapaaminen, tapahtuman järjestäminen]
 author: ijoin.app
+language: fi
 ---
 
 # Yritystapaamiset Uudella Tasolla- Tehokas tapa hallita **Stammtisch**-ilmoittautumiset

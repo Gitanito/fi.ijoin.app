@@ -4,6 +4,7 @@ title: Beta-testien Järjestäminen Vaivattomasti - Unohda Sähköpostirumba
 subtitle: Maksimoi osallistujamäärä ilman rekisteröintipainajaisia
 tags: [beta-testaus, tapahtumajärjestely]
 author: ijoin.app
+language: fi
 ---
 
 # Beta-testien Järjestäminen Vaivattomasti - Unohda Sähköpostirumba

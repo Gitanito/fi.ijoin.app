@@ -4,6 +4,7 @@ title: Unohda sähköpostiviidakko- Näin järjestät peli-illat vaivattomasti
 subtitle: Maksimoi osallistujamäärä- Helppo ja ilmainen tapa hallinnoida tapahtumia
 tags: [tapahtuman-hallinta, peli-illat]
 author: ijoin.app
+language: fi
 ---
 
 # Unohda sähköpostiviidakko: Näin järjestät peli-illat vaivattomasti

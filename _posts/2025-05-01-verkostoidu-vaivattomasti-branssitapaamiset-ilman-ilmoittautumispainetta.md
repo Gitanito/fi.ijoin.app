@@ -4,6 +4,7 @@ title: Verkostoidu Vaivattomasti - Branssitapaamiset Ilman Ilmoittautumispainett
 subtitle: Maksimoi Osallistujamäärä - Helppo Tapa Järjestää Ammattilaisten Meetup
 tags: [tapahtuman-järjestäminen, verkostoituminen]
 author: ijoin.app
+language: fi
 ---
 # Verkostoidu Vaivattomasti - Branssitapaamiset Ilman Ilmoittautumispainetta
 

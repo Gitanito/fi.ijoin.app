@@ -4,6 +4,7 @@ title: Unohda sähköpostiviidakko- Näin keräät käyttäjäpalautteen vaivatt
 subtitle: Maksimoi osallistujamäärä tuoteideoiden testaukseen ilman kirjautumisia
 tags: [käyttäjäpalaute, tapahtumajärjestely]
 author: ijoin.app
+language: fi
 ---
 
 # Haluatko arvokasta käyttäjäpalautetta tuoteideoista?

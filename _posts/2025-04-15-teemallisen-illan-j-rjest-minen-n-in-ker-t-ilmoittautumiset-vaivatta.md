@@ -4,6 +4,7 @@ title: Teemallisen Illan Järjestäminen - Näin Keräät Ilmoittautumiset Vaiva
 subtitle: Maksimoi Osallistujamäärä - Ei Kirjautumisia, Ei Sovelluksia
 tags: [tapahtumanjärjestäminen, ilmoittautuminen]
 author: ijoin.app
+language: fi
 ---
 # Teemallisen Illan Järjestäminen - Näin Keräät Ilmoittautumiset Vaivatta
 

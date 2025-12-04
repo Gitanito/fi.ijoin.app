@@ -4,6 +4,7 @@ title: Unohda Kutsukaaos - Näin Järjestät Lasten Synttärit Stressittä
 subtitle: Maksimoi Osallistujamäärä Ilman Vanhempien Rekisteröitymistä
 tags: [synttärijärjestely, tapahtumahallinta]
 author: ijoin.app
+language: fi
 ---
 
 # Syntymäpäiväjuhlien Järjestäminen - Helppoa Vastausprosentin Maksimointia

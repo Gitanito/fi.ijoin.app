@@ -4,6 +4,7 @@ title: Naapuruston Tapahtumat Onnistuvat Helposti - Ilman Sähköpostirumbaa
 subtitle: Maksimoi osallistujamäärä ja jaa tiedot hetkessä - ijoin.app tekee sen mahdolliseksi
 tags: [tapahtuman-järjestäminen, naapurustoapu]
 author: ijoin.app
+language: fi
 ---
 
 # Naapuruston Talkoot ja Tapahtumat - Näin Kutsut Väen Koolle Vaivattomasti

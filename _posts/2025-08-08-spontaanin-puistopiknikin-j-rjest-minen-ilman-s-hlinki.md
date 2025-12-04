@@ -4,6 +4,7 @@ title: Spontaanin Puistopiknikin Järjestäminen Ilman Sählinkiä
 subtitle: Maksimoi Osallistujamäärä - Vieraat Vastaavat Ilman Rekisteröintiä
 tags: [tapahtuman-järjestäminen, ilmainen-työkalu]
 author: ijoin.app
+language: fi
 ---
 # Spontaanit Tapahtumat Onnistuvat - Näin Järjestät Piknikin Minuuteissa
 

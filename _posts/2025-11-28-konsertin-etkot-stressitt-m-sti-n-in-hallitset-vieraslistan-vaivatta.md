@@ -4,6 +4,7 @@ title: Konsertin Etkot Stressittömästi - Näin Hallitset Vieraslistan Vaivatta
 subtitle: Maksimoi osallistujamäärä ilman rekisteröitymispakkoa
 tags: [tapahtumanhallinta, etkot]
 author: ijoin.app
+language: fi
 ---
 # Konsertin Etkot Stressittömästi - Näin Hallitset Vieraslistan Vaivatta
 

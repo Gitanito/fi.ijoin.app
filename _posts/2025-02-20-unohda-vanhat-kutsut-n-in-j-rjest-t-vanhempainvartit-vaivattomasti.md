@@ -4,6 +4,7 @@ title: Unohda Vanhat Kutsut - Näin Järjestät Vanhempainvartit Vaivattomasti
 subtitle: Maksimoi Vanhempainvarttien Osallistumisprosentti Ilman Kirjautumisia
 tags: [vanhempainvartti, tapahtumanhallinta]
 author: ijoin.app
+language: fi
 ---
 
 # Vanhempainvarttien Aikataulutus Uudella Tasolla – Ei Enää Sähköpostiviidakkoa!

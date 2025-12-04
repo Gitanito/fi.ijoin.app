@@ -4,6 +4,7 @@ title: After Work Tapahtumat Stressittömästi - Maksimoi Osallistuminen
 subtitle: Unohda Sähköpostirumbat - Näin Saat Kollegat Uuteen Baariin Heti
 tags: [tapahtumajärjestely, ilmoittautuminen]
 author: ijoin.app
+language: fi
 ---
 # After Work Tapahtumat Stressittömästi - Maksimoi Osallistuminen
 

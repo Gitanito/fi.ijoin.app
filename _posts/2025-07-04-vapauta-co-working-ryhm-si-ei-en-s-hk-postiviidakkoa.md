@@ -4,6 +4,7 @@ title: Vapauta Co-Working-ryhmäsi- Ei enää sähköpostiviidakkoa
 subtitle: Järjestä spontaanit tapaamiset vaivattomasti ja maksimoi osallistuminen
 tags: [coworking, tapahtumajärjestely]
 author: ijoin.app
+language: fi
 ---
 # Co-Working-Tapaamiset Ilman Säätöä: Helppoa Järjestelyä Freelancereille
 

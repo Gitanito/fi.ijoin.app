@@ -4,6 +4,7 @@ title: Vaivattomasti Yhteislenkille- Näin Maksimoit Osallistujamäärän
 subtitle: Unohda sähköpostiviidakko- Järjestä vaellus- ja pyöräilytapahtumat helpommin kuin koskaan
 tags: [tapahtumanjärjestäminen, pyöräilytapahtumat]
 author: ijoin.app
+language: fi
 ---
 # Vaivattomasti Yhteislenkille: Näin Maksimoit Osallistujamäärän
 

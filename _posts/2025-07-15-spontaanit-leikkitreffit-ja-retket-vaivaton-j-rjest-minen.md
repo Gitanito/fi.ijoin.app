@@ -4,6 +4,7 @@ title: Spontaanit Leikkitreffit ja Retket - Vaivaton Järjestäminen
 subtitle: Maksimoi Osallistujat ja Unohda Viestitulva
 tags: [tapahtuman-järjestäminen, vanhemmuus]
 author: ijoin.app
+language: fi
 ---
 
 # Leikkitreffien Järjestäminen Ilman Viestiryhmän Kaaosta

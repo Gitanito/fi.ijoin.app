@@ -4,6 +4,7 @@ title: Unohda sähköpostirumbat- Näin täytät Töpäröintikurssisi vaivatta
 subtitle: Maksimoi ilmoittautumiset- tee kurssin järjestämisestä nautinto
 tags: [töpäröintikurssi, tapahtuman järjestäminen]
 author: ijoin.app
+language: fi
 ---
 
 # Unohda Sähköpostirumbat – Täytä Töpäröintikurssisi Vaivatta

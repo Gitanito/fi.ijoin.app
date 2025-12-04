@@ -4,6 +4,7 @@ title: Alumni-tapaamisten Järjestäminen - Näin saat kaikki mukaan
 subtitle: Unohda sähköpostiviidakko - Maksimoi osallistujamäärä vaivattomasti
 tags: [alumni, tapahtumanjärjestäminen]
 author: ijoin.app
+language: fi
 ---
 
 # Alumni-tapaamisten Järjestäminen - Näin Saat Kaikki Mukaan Ilman Turhaa Vaivaa

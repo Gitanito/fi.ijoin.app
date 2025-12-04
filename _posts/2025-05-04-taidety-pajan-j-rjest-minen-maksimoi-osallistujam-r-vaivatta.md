@@ -4,6 +4,7 @@ title: Taidetyöpajan Järjestäminen - Maksimoi Osallistujamäärä Vaivatta
 subtitle: Unohda monimutkaiset lomakkeet - Näin saat enemmän ilmoittautumisia workshoppeihisi
 tags: [tapahtumanjärjestäminen, työpaja]
 author: ijoin.app
+language: fi
 ---
 
 # Taidetyöpajan Osallistujamäärän Maksimointi - Helppo, Nopea ja Ilmainen Ratkaisu

@@ -4,6 +4,7 @@ title: Koulun Kirpputori-Talkoiden Organisointi Vihdoin Helppoa
 subtitle: Maksimoi Vapaaehtoisten Määrä Ilman Loputonta Sähköpostirumbaa
 tags: [tapahtumanjärjestäminen, vapaaehtoistyö]
 author: ijoin.app
+language: fi
 ---
 
 # Koulun Kirpputorin Talkoovuorojen Koordinointi Ilman Stressiä

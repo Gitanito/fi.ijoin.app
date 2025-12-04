@@ -4,6 +4,7 @@ title: Unohda Viestiketjujen Viidakko- Näin Järjestät Kimppakyydit Vaivatta
 subtitle: Maksimoi Osallistuminen ja Minimoi Kyytisäätö Urheilutapahtumiin
 tags: [kimppakyyti, tapahtumajärjestely]
 author: ijoin.app
+language: fi
 ---
 
 # Unohda Viestiketjujen Viidakko – Näin Järjestät Kimppakyydit Urheilutapahtumiin Vaivatta

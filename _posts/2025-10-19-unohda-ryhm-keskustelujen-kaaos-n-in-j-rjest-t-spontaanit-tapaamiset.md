@@ -4,6 +4,7 @@ title: Unohda Ryhmäkeskustelujen Kaaos - Näin Järjestät Spontaanit Tapaamise
 subtitle: Baari-illat, Grillijuhlat ja Treenit Ilman Sähköpostirumbaa
 tags: [tapahtumajärjestely, ilmoittautuminen]
 author: ijoin.app
+language: fi
 ---
 
 # Spontaani Tapaaminen Heti Kasaan - Maksimaalinen Osallistuminen Minuutissa

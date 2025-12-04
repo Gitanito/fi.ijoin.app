@@ -4,6 +4,7 @@ title: Järjestä Eksklusiivinen Pop-up Illallinen - Vaivattomasti
 subtitle: Maksimoi Vieraiden Osallistuminen ja Hallitse Viime Hetken Muutokset
 tags: [tapahtuman-järjestäminen, pop-up-illallinen]
 author: ijoin.app
+language: fi
 ---
 # Järjestä Eksklusiivinen Pop-up Illallinen - Vaivattomasti
 

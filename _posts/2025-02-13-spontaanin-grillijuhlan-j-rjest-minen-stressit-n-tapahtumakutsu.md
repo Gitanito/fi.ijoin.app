@@ -4,6 +4,7 @@ title: Spontaanin Grillijuhlan Järjestäminen- Stressitön Tapahtumakutsu
 subtitle: Maksimoi Osallistujamäärä- Unohda Turhat Rekisteröitymiset
 tags: [tapahtumajärjestely, grillijuhlat]
 author: ijoin.app
+language: fi
 ---
 
 # Spontaanin Grillijuhlan Järjestäminen: Kutsujen Hallinta Ilman Sählinkiä

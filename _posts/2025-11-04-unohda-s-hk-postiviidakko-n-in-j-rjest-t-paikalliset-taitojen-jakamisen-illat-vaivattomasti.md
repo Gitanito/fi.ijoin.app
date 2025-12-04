@@ -4,6 +4,7 @@ title: Unohda sähköpostiviidakko- Näin järjestät paikalliset taitojen jakam
 subtitle: Maksimoi osallistujamäärä ilman rekisteröitymispakkoa ja monimutkaisia lomakkeita
 tags: [Tapahtuman järjestäminen, Yhteisörakentaminen]
 author: ijoin.app
+language: fi
 ---
 
 # Haluatko täydet osallistujalistat seuraavaan taitojen jakamisen iltaan?

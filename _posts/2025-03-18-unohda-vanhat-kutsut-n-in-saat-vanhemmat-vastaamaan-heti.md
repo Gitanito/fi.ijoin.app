@@ -4,6 +4,7 @@ title: Unohda Vanhat Kutsut - Näin Saat Vanhemmat Vastaamaan Heti
 subtitle: Koulun Tapahtumien Organisointi Ei Ole Enää Taakka - Maksimaalinen Vastausprosentti Yhdellä Linkillä
 tags: [tapahtumanjärjestäminen, koulun-tapahtumat]
 author: ijoin.app
+language: fi
 ---
 # Unohda Vanhat Kutsut - Näin Saat Vanhemmat Vastaamaan Heti
 
